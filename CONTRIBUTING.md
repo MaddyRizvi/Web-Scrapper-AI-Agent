@@ -20,7 +20,7 @@ Click the **Fork** button at the top right of this repository and clone
 your fork locally.
 
 ``` bash
-git clone https://github.com/your-username/web-scraper-agent.git
+git clone https://github.com/MaddyRizvi/Web-Scrapper-AI-Agent.git
 cd web-scraper-agent
 ```
 
