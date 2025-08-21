@@ -19,6 +19,12 @@ embeddings**.
 
 ------------------------------------------------------------------------
 
+## ▶️ Screenshot
+<img width="1365" height="661" alt="Image" src="https://github.com/user-attachments/assets/86c3b7a1-966e-4b51-915d-0ee0dbce47bc" />
+
+
+------------------------------------------------------------------------
+
 ## 🛠️ Installation
 
 1.  **Clone this repository**
